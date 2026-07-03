@@ -326,30 +326,6 @@ class SumitPatel:
 
 </div>
 
-<br/>
-
-<!-- ===================== QUOTE ===================== -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-
-</div>
-
-<br/>
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumit-Patel08/Sumit-Patel08/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumit-Patel08/Sumit-Patel08/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sumit-Patel08/Sumit-Patel08/output/github-contribution-grid-snake-dark.svg" width="95%">
-</picture>
-
-</div>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
 </div>
