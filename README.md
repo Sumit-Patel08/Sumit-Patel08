@@ -64,8 +64,8 @@
 class SumitPatel:
     def __init__(self):
         self.role        = "Full-Stack Developer & AI Enthusiast"
-        self.education   = "B.E. Computer Engineering"
-        self.location    = "Gujarat, India"
+        self.education   = "B.E. Computer Engineering, The Maharaja Sayajirao University"
+        self.location    = "Vadodara, Gujarat, India"
 
         self.current_focus = [
             "Full-stack web apps with React & Node.js",
@@ -87,7 +87,7 @@ class SumitPatel:
 <table>
   <tr>
     <td width="55px" align="center">🔭</td>
-    <td>Currently building <b>full-stack web applications</b> — from blockchain explorers and ticket booking platforms to AI-powered environmental monitoring systems.</td>
+    <td>Currently building <b>full-stack web applications</b> — from blockchain explorers and voice-first agriculture platforms to AI-powered environmental monitoring systems.</td>
   </tr>
   <tr>
     <td align="center">🌱</td>
@@ -172,6 +172,36 @@ class SumitPatel:
   <tr>
     <td width="2%"></td>
     <td width="46%" valign="top">
+      <h3>🌾 Sasya AI</h3>
+      <b>AI/ML • AgriTech • Voice-First Advisory</b>
+      <p>AI-powered agriculture platform bringing <b>voice-first advisory</b> to smallholder farmers — ranked 7-day crop advisories, <b>118-class leaf disease detection</b>, Mandi price intelligence, and a <b>sell / store / transport</b> decision engine, all reachable over a live voice call or WhatsApp in Indic languages.</p>
+      <p>🚀 <a href="https://sasya-ai-wine.vercel.app/">Live Demo</a> · <a href="https://github.com/Sumit-Patel08/Sasya-AI">Source</a></p>
+      <p>🥇 <b>1st Position</b> — TetraTHON 2026 Indo-French Hackathon (160+ teams)</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Gemini_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+      </p>
+    </td>
+    <td width="4%"></td>
+    <td width="46%" valign="top">
+      <h3>🌍 TerraForge</h3>
+      <b>AI/ML • Environmental OS • Geospatial Intelligence</b>
+      <p>Environmental Operating System that predicts and mitigates <b>disaster cascade effects</b> — wildfire → air quality → agriculture → livestock → economy — using live satellite, weather & market data with role-specific dashboards for farmers and government officials.</p>
+      <p>🏅 <b>Top 8 Finalist</b> — DotSlash 9.0 (SVNIT Surat, 550+ teams) · <a href="https://github.com/Sumit-Patel08/TerraForge">Source</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square&logo=nasa&logoColor=white">
+        <img src="https://img.shields.io/badge/TinyLlama-8A2BE2?style=flat-square&logo=ollama&logoColor=white">
+      </p>
+    </td>
+    <td width="2%"></td>
+  </tr>
+  <tr>
+    <td width="2%"></td>
+    <td width="46%" valign="top">
       <h3>⛓️ ArbiChain Explorer</h3>
       <b>Web3 • Blockchain • TypeScript</b>
       <p>Educational 4-page website explaining <b>Arbitrum & Layer 2 scaling</b> with interactive concepts, live crypto prices via CoinGecko API, and a <b>SHA-256 proof-of-work block simulator</b> running entirely in the browser.</p>
@@ -185,22 +215,6 @@ class SumitPatel:
     </td>
     <td width="4%"></td>
     <td width="46%" valign="top">
-      <h3>🌊 Coastal Threat Alert System</h3>
-      <b>AI/ML • Environmental Monitoring • Full-Stack</b>
-      <p>Early warning system analyzing <b>sensor & satellite data</b> to detect coastal threats — storms, erosion, algal blooms & illegal dumping — sending timely alerts via SMS, app & dashboards to protect lives & blue carbon ecosystems.</p>
-      <p>🌍 Built for real-world environmental impact.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/Remote_Sensing-FF6F61?style=flat-square&logo=satellite&logoColor=white">
-        <img src="https://img.shields.io/badge/AI_ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-        <img src="https://img.shields.io/badge/Full--Stack-6DA55F?style=flat-square&logo=node.js&logoColor=white">
-      </p>
-    </td>
-    <td width="2%"></td>
-  </tr>
-  <tr>
-    <td width="2%"></td>
-    <td width="46%" valign="top">
       <h3>🤖 AgentArena</h3>
       <b>Generative AI • Full-Stack • Agents</b>
       <p>A platform for building and exploring <b>AI agent workflows</b> — experimenting with generative AI pipelines to create intelligent, interactive applications.</p>
@@ -209,19 +223,6 @@ class SumitPatel:
         <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=flat-square&logo=openai&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-      </p>
-    </td>
-    <td width="4%"></td>
-    <td width="46%" valign="top">
-      <h3>🎫 Ticket Booking Platform</h3>
-      <b>Full-Stack • Web App • Deployment</b>
-      <p>A complete <b>ticket booking web application</b> with user flows for browsing events, selecting seats, and completing bookings — deployed and accessible online.</p>
-      <p>🚀 <a href="https://ticket-booking-platform-1.vercel.app">Live Demo</a> · <a href="https://github.com/Sumit-Patel08/ticket-booking-platform--1-">Source</a></p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Full--Stack-6DA55F?style=flat-square&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
       </p>
     </td>
@@ -271,11 +272,11 @@ class SumitPatel:
 
 | 🏆 Highlight | 📋 Detail |
 |:---|:---|
-| 🚀 **12+ Public Repositories** | Active GitHub with diverse projects spanning AI, Web3, and full-stack |
-| 🌊 **Coastal Threat Alert System** | Built an AI-powered environmental monitoring & early warning platform |
+| 🥇 **1st Position — TetraTHON 2026** | Won the Indo-French international hackathon with *Sasya AI*, a voice-first agriculture platform (160+ teams) |
+| 🌍 **Top 8 Finalist — DotSlash 9.0** | Built *TerraForge*, an Environmental OS tracking wildfire cascade impacts (SVNIT Surat, 550+ teams) |
+| 🚀 **14+ Public Repositories** | Active GitHub with diverse projects spanning AI, Web3, and full-stack |
 | ⛓️ **ArbiChain Explorer** | Shipped a live blockchain education tool with PoW simulator on Vercel |
 | 🤖 **AgentArena** | Deployed a generative AI agent platform for real-world experimentation |
-| 🎫 **Ticket Booking Platform** | End-to-end full-stack app with live production deployment |
 | 🏅 **Hackovate Participant** | Competed with an ML-driven dairy health & yield dashboard |
 
     </td>
@@ -320,10 +321,6 @@ class SumitPatel:
 
 <img height="180em" src="./assets/streak.svg?v=1" alt="streak" />
 
-<br/><br/>
-
-<img src="./assets/activity-graph.svg?v=1" width="95%" alt="activity graph" />
-
 </div>
 
 <div align="center">
@@ -333,7 +330,7 @@ class SumitPatel:
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="330" alt="keep moving forward"/>
+<img src="./assets/quote.svg" width="480" alt="Artificial intelligence would be the ultimate version of Google. The ultimate search engine that would understand everything on the web. - Larry Page"/>
 
 ### 💌 Let's build something awesome.
 

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 860" width="900" height="860" role="img" aria-label="Artificial intelligence would be the ultimate version of Google. The ultimate search engine that would understand everything on the web. - Larry Page">
+  <rect width="900" height="860" fill="#000000"/>
+  <text x="450" y="200" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="170" font-weight="700" fill="#D89B3C">&#8220;</text>
+  <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#F5F5F5">
+    <text x="450" y="300">Artificial intelligence would</text>
+    <text x="450" y="378">be the ultimate version of</text>
+    <text x="450" y="456">Google. The ultimate search</text>
+    <text x="450" y="534">engine that would</text>
+    <text x="450" y="612">understand everything on the</text>
+    <text x="450" y="690">web.</text>
+  </g>
+  <rect x="415" y="748" width="70" height="4" fill="#D89B3C"/>
+  <text x="450" y="806" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="5" fill="#EDEDED">LARRY PAGE</text>
+</svg>
